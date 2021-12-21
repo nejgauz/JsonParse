@@ -1,5 +1,13 @@
 {
-    "name": "Anna",
-    "age": 31,
-    "isMarried": true
+    "name": "Olga",
+    "age": 27,
+    "isMarried": true,
+    "address": {
+        "city": "St.Petersburg",
+        "street": "Pretty",
+        "details": {
+            "building": 15,
+            "flat": 85
+        }
+    }
 }
